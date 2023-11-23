@@ -1,0 +1,46 @@
+/*.class{
+    width: 400px;
+    margin:0 auto;
+    align-items: center;
+}*/
+input{
+    width: 80%;
+    padding: 10px  20px;
+    margin: 10px 0px;
+    box-sizing: border-box;
+    border-color: rgb(31, 33, 31);
+    border: solid;
+}
+button{
+    width: 20%;
+    border: 0px;
+    padding: 8px 0px;
+    background-color:rgb(22, 179, 242) ;
+    color: rgb(8, 0, 0);
+    margin: 8px 0px;
+
+   cursor: pointer;
+   font-size: 20px;
+   box-sizing: border-box;
+   position: relative;
+   left: 30%;
+}
+ul{
+    list-style: none;
+}
+li{
+    background-color: darksalmon;
+    color: white;
+    
+    width: 40%;
+    padding: 8px;
+  box-sizing: border-box; 
+  position: relative;
+   left: 20%; 
+   margin: 5px;
+    display: flex;
+   justify-content: center;
+ 
+   
+   
+}
